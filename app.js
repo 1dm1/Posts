@@ -53,6 +53,8 @@ const workWithData = {
 workWithData.getArr();
 
 
+console.log('tape => develop')
+
 
 
 
