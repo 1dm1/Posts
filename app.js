@@ -54,6 +54,7 @@ workWithData.getArr();
 
 
 console.log('develop => main');
+console.log('develop')
 
 
 
