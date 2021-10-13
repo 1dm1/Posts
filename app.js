@@ -57,20 +57,7 @@ workWithData.getArr();
 
 
 
-console.log('tape => developppppp')
-console.log('tape')
 
-
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
-console.log('tape')
 
 
 
