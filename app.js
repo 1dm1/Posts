@@ -53,13 +53,10 @@ const workWithData = {
 workWithData.getArr();
 
 
-console.log('develop => main');
-console.log('develop')
+
+console.log('сделал изменение в develop и сделал push без merge')
 
 
-
-console.log('tape => developppppp')
-console.log('tape')
 
 
 
