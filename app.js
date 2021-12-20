@@ -56,8 +56,7 @@ workWithData.getArr();
 
 console.log('сделал изменение в develop и сделал push без merge')
 console.log('сделал изменение в develop и сделал push без merge')
-console.log('da')
-console.log('dadada')
+
 
 console.log('test')
 
