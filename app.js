@@ -59,6 +59,7 @@ console.log('сделал изменение в develop и сделал push б�
 
 
 console.log('test')
+console.log('dadadadaadadad')
 
 
 
